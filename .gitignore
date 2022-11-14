@@ -1,3 +1,13 @@
+build/
+.idea/
+UserSettings/
+Assets/StreamingAssets/
+packages-lock.json
+Bundles/
+mylog.txt
+Sandbox/
+
+
 # This .gitignore file should be placed at the root of your Unity project directory
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
@@ -58,3 +68,5 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+
+Assets/StreamingAssets.meta
